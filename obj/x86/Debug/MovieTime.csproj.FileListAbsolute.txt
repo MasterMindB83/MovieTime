@@ -1,0 +1,13 @@
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\bin\Debug\MovieTime.exe.config
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\bin\Debug\MovieTime.exe
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\bin\Debug\MovieTime.pdb
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.FilePreview.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.Info.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.MediaEdit.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.MediaPreview.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.Properties.Resources.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.Structure.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.csproj.GenerateResource.Cache
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.exe
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.pdb
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\MovieTime\MovieTime\obj\x86\Debug\MovieTime.csprojResolveAssemblyReference.cache
